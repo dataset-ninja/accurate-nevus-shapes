@@ -2,7 +2,7 @@ If you make use of the Accurate nevus shapes data, please cite the following ref
 
 ``` bibtex 
 @misc{Accurate nevus shapes,
-	author="TO BE FILLED MANUALLY!",
+	author="METAVISION",
 	title="Accurate nevus shapes",
 	year={2022},
 	url="https://www.kaggle.com/datasets/metavision/accurate-nevus-shapessegmentation"
