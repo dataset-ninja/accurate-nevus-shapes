@@ -6,4 +6,4 @@ Images in the Accurate nevus shapes dataset have pixel-level instance segmentati
 
 Here are the visualized examples for each of the 1 classes:
 
-[Dataset classes](https://github.com/dataset-ninja/accurate-nevus-shapes/raw/main/visualizations/classes_preview.webm)
+[Dataset classes](https://github.com/dataset-ninja/accurate-nevus-shapes/raw/main/visualizations/horizontal_grid.webm)
