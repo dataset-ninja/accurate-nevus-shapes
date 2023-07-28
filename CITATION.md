@@ -1,11 +1,11 @@
-If you make use of the Accurate nevus shapes data, please cite the following reference:
+If you make use of the Accurate Nevus Shapes data, please cite the following reference:
 
 ``` bibtex 
-@misc{Accurate nevus shapes,
-	author="METAVISION",
-	title="Accurate nevus shapes",
+@dataset{Accurate Nevus Shapes,
+	author={metavision},
+	title={Accurate Nevus Shapes/Segmentation},
 	year={2022},
-	url="https://www.kaggle.com/datasets/metavision/accurate-nevus-shapessegmentation"
+	url={https://www.kaggle.com/datasets/metavision/accurate-nevus-shapessegmentation}
 }
 ```
 
