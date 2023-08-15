@@ -9,4 +9,4 @@ If you make use of the Accurate Nevus Shapes data, please cite the following ref
 }
 ```
 
-[🔗 Source](https://www.kaggle.com/datasets/metavision/accurate-nevus-shapessegmentation)
+[Source](https://www.kaggle.com/datasets/metavision/accurate-nevus-shapessegmentation)

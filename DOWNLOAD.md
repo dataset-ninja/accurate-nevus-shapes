@@ -13,4 +13,4 @@ import dataset_tools as dtools
 
 dtools.download(dataset='Accurate nevus shapes', dst_path='~/dtools/datasets/Accurate nevus shapes.tar')
 ```
-The data in original format can be 🔗[downloaded here](https://www.kaggle.com/datasets/metavision/accurate-nevus-shapessegmentation/download?datasetVersionNumber=1)
+The data in original format can be [downloaded here](https://www.kaggle.com/datasets/metavision/accurate-nevus-shapessegmentation/download?datasetVersionNumber=1)
