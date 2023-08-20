@@ -1,6 +1,6 @@
 Dataset **Accurate Nevus Shapes** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/f/8/g3/SEaE1EacQQqm0Wu0aBB2l1Z1WC3ZZUBLllBgGkFwwJ4qUut9arhTrWZ1dLZ16w1f9NK8opXflCLt61qbbdq0T2szVtPIRVxoz6cUa9WnGZb2AIUiGpNT37DSCGbZ.tar)
+ [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/W/r/NM/heI3r2mKkV7uqL9HVjyW8o3TJ6uPQ432d12OiVHGPpXp8rJuzqM2QM2gkSX6MuCp5xr53wCx7Xp4vq57Un3WjUi72gFbJ6amFtQzt0rWw1V2DAhxSak0WBk10FL5.tar)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
