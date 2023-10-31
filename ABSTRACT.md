@@ -1,3 +1,1 @@
-Several segmentation techniques were used to generate accurate masks from the original video streams, preserving natural variance and original shapes.
-
-This set is just a "building block". Feel free to augment it or combine it with other sets.
+The **Accurate Nevus Shapes/Segmentation** dataset was made by the MetaVerse team using their own data. To create precise masks from the original video streams, multiple segmentation techniques were applied. These techniques were carefully chosen to maintain the natural variations and original shapes of the objects.
